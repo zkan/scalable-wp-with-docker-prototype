@@ -21,3 +21,4 @@ wp-content/plugins/hello.php
 venv
 __pycache__
 .DS_Store
+*.sqlite3
