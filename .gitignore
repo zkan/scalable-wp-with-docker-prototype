@@ -19,3 +19,4 @@ wp-content/plugins/hello.php
 .vagrant
 *.swp
 venv
+__pycache__
